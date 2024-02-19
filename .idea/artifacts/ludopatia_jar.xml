@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ludopatia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ludopatia_jar</output-path>
+    <root id="archive" name="ludopatia.jar">
+      <element id="module-output" name="ludopatia" />
+    </root>
+  </artifact>
+</component>
